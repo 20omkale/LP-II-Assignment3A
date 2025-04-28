@@ -1,1 +1,2 @@
-# LP-II-Assignment3A
+# 3a
+static website node js
